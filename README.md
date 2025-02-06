@@ -1,4 +1,12 @@
-## teste!
+Olá! Eu sou Vinicius 👋
+
+Sobre mim
+
+🌟 Dando passos como desenvolvedor com experiência em IA, cibersegurança e gestão
+
+⚖️ Apaixonado por tecnologia e soluções inovadoras
+
+⚡ Sempre aprendendo e explorando novas tecnologias
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussantanna&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussantanna&layout=donut&theme=tokyonight)
