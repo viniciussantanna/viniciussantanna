@@ -8,7 +8,7 @@ Sobre mim
 
 ⚡ Sempre aprendendo e explorando novas tecnologias
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussantanna&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussantanna&show_icons=true&theme=tokyonight&layout=donut)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussantanna&theme=tokyonight&layout=donut)
 
 <div style="display: inline_block"><br>
